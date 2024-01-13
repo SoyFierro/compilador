@@ -1,5 +1,4 @@
 # compilador
 Compilador hecho en el lenguaje C
-Integrantes:
+Integrante:
 - Quintana Castorena Jose Eduardo
-- Valdez Ornelas Pablo Antonio
