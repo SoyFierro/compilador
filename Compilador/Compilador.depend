@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1664469441 source:c:\users\usuario\documents\c\compilador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1671037632 source:d:\desktop\cesar\c\compilador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1671041234 source:e:\compilador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+

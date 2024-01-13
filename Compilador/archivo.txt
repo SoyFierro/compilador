@@ -1,0 +1,16 @@
+inicio{
+	entero numero1 = -2;
+	entero numero2 = 7;
+	decimal numero3 = 2.2324;
+	cadena nombre="hola";
+	
+	si (numero1 == 2)
+	{
+		mostrar("Numero 1 es igual a Numero 2");
+	}sisino(numero1 < 2)
+	{
+		mostrar("Numero 1 es menor a Numero 2");
+	}
+
+	leer(nombre);
+}

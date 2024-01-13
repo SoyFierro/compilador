@@ -1,0 +1,35 @@
+inicio{
+	para(entero i=0; i<5; i+1;){
+		numero = (1+1) / 2 * (2+3) * numero3 / 222.3;
+		si(2<2){
+			mostrar(mayor);
+			para(entero i=0; i<5; i+1;){
+				numero = (1+1) / 2 * (2+3) * numero3 / 222.3;
+			}
+		}
+	}
+	leer(nombre);
+leer(nombre);
+leer(nombre);
+leer(dfd);
+
+leer(mientras);
+
+	mostrar(nombre);
+	numero = (1+1) / 2 * (2+3) * numero3 / 222.3;
+	constante decimal PI = 3.1416;
+	si(2<2){
+		mostrar(mayor);
+		para(entero i=0; i<5; i+1;){
+			mientras(8 < 5){
+		x = x+1;
+		mostrar("El valor de x es: " + x);
+	}
+		}
+	}	
+	mientras(8 < 5){
+		x = x+1;
+		mostrar("El valor de x es: " + x);
+	}
+
+}

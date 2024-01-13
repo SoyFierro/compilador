@@ -1,0 +1,8 @@
+inicio{
+	entero a = 5;
+	entero b = 7;
+	entero resultado = 0;
+
+	resultado = a + b;
+    	mostrar(resultado);
+}
